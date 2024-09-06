@@ -1,2 +1,3 @@
 # blue-card
-it my first material with tailwincss
+it my first time with tailwincss
+https://arbaz14.github.io/blue-card/
